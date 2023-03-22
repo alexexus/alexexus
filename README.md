@@ -3,12 +3,11 @@
 #### Student of Yandex Practicum 📚
 
 ### My technology stack:
-<img src="https://img.shields.io/badge/JAVA-C0C0C0?style=for-the-badge&logo=Java&logoColor=F4A460"/> <img src="https://img.shields.io/badge/JUNIT-C0C0C0?style=for-the-badge&logo=JUnit5&logoColor=25A162"/> <img src="https://img.shields.io/badge/SQL-C0C0C0?style=for-the-badge&logo=PostgreSQL&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/JAVA-5382a1?style=for-the-badge&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JUNIT-25A162?style=for-the-badge&logo=JUnit5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF"/>
 
-<img src="https://img.shields.io/badge/SPRING-9370DB?style=for-the-badge&logo=Spring&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Boot-9370DB?style=for-the-badge&logo=Spring Boot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/Spring Data-9370DB?style=for-the-badge&logo=1&logoColor=6DB33F"/>
+<img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Data-6DB33F?style=for-the-badge&logo=1&logoColor=FFFFFF"/>
 
-
-<img src="https://img.shields.io/badge/GIT-00FF7F?style=for-the-badge&logo=Git&logoColor=F05032"/> <img src="https://img.shields.io/badge/Hibernate-00FF7F?style=for-the-badge&logo=Hibernate&logoColor=59666C"/> <img src="https://img.shields.io/badge/Apache Maven-00FF7F?style=for-the-badge&logo=Apache Maven&logoColor=C71A36"/>
+<img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Apache Maven-C71A36?style=for-the-badge&logo=Apache Maven&logoColor=FFFFFF"/>
 
 ### Contact me:
-[<img src="https://img.shields.io/badge/VK-00BFFF?style=for-the-badge&logo=VK&logoColor=0077FF"/>](https://vk.com/selenar) [<img src="https://img.shields.io/badge/Telegram-00BFFF?style=for-the-badge&logo=Telegram&logoColor=0077FF"/>](https://t.me/alexexus) [<img src="https://img.shields.io/badge/Instagram-00BFFF?style=for-the-badge&logo=Instagram&logoColor=E4405F"/>](https://www.instagram.com/_alexexus_/) <img src="https://img.shields.io/badge/tnt.99@mail.ru-00BFFF?style=for-the-badge&logo=Mail.Ru&logoColor=005FF9"/>
+[<img src="https://img.shields.io/badge/VK-0077FF?style=for-the-badge&logo=VK&logoColor=FFFFFF"/>](https://vk.com/selenar) [<img src="https://img.shields.io/badge/Telegram-0077FF?style=for-the-badge&logo=Telegram&logoColor=FFFFFF"/>](https://t.me/alexexus) <img src="https://img.shields.io/badge/tnt.99@mail.ru-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=FFFFFF"/> [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=FFFFFF"/>](https://www.instagram.com/_alexexus_/)
