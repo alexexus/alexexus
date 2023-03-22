@@ -3,7 +3,7 @@
 #### Student of Yandex Practicum 📚
 
 ### My technology stack:
-<img src="https://img.shields.io/badge/JAVA-5382a1?style=for-the-badge&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JUNIT-25A162?style=for-the-badge&logo=JUnit5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/JAVA-f89820?style=for-the-badge&logo=Java&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JUNIT-25A162?style=for-the-badge&logo=JUnit5&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=PostgreSQL&logoColor=FFFFFF"/>
 
 <img src="https://img.shields.io/badge/SPRING-6DB33F?style=for-the-badge&logo=Spring&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Spring Data-6DB33F?style=for-the-badge&logo=1&logoColor=FFFFFF"/>
 
