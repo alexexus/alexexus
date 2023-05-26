@@ -1,5 +1,5 @@
 ### Hi there 👋 My name is Aleksey Fedorenko 👽
-### I'm Junior Java Developer 🌱
+### I'm Java Developer 🌱
 #### Student of Yandex Practicum 📚
 
 ### My technology stack:
